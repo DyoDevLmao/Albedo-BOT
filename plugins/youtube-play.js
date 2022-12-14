@@ -44,9 +44,9 @@ try {
   const url = 'https://www.youtube.com/watch?v=' + videoId
   let whmodsdev = `*${htki} PLAY ${htka}*
 
- 📌 *Title:* ${title}
+📌 *Title:* ${title}
 🔗 *Url:* ${url}
-🖹 *Description:* ${description}
+📑 *Description:* ${description}
 ⏲️ *Published:* ${publishedTime}
 ⌚ *Duration:* ${durationH}
 👁️ *Views:* ${viewH}
